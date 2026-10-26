@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Rank \u0026 Results Content Creator SEO Remix",
+  "description": "Think Tank Digital SEO Writer: An omnichannel AI content and sales engine creating rank-ready SEO articles, LinkedIn authority posts, Facebook updates, TikTok/Reel scripts, and SEO tags in Alex Hormozi and Zig Ziglar 2026 styles with US grammar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
